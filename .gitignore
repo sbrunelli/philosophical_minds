@@ -1,0 +1,6 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+
+# Meetup exports contain member PII (names, IDs, profile URLs) - never commit
+data/

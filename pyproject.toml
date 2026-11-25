@@ -1,0 +1,13 @@
+[project]
+name = "philosophical-minds"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.2",
+    "nbconvert>=7.17.2",
+    "nbformat>=5.11.1",
+    "pandas>=3.1.1",
+    "scipy>=1.18.1",
+    "seaborn>=0.13.2",
+]
